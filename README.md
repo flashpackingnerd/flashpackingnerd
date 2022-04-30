@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flashpackingnerd&label=Profile%20views&color=0e75b6&style=flat" alt="flashpackingnerd" /> </p>
 
 
-- 🌱 I’m currently learning **Rust, Go and GCP**
+- 🌱 I’m always learning.
 
 - 💬 Ask me about **AWS or .NET Core**
 
